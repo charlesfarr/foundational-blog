@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Foundational</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-06-07T12:53:19-05:00</updated>
+ <link href="http://localhost:4000foundational-blog/atom.xml" rel="self"/>
+ <link href="http://localhost:4000foundational-blog/"/>
+ <updated>2020-06-07T13:20:43-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Charles Farr</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Guiding Thesis On Urbanism</title>
-   <link href="http://localhost:4000/guiding-thesis-on-urbanism/"/>
+   <link href="http://localhost:4000foundational-blog/guiding-thesis-on-urbanism/"/>
    <updated>2020-05-15T00:00:00-05:00</updated>
    <id>http://localhost:4000/guiding-thesis-on-urbanism</id>
    <content type="html">&lt;h2 id=&quot;vignette--the-current-state&quot;&gt;Vignette — the current state&lt;/h2&gt;

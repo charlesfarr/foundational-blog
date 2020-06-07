@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about</loc>
-<lastmod>2020-06-07T12:53:19-05:00</lastmod>
+<loc>http://localhost:4000/foundational-blog/about</loc>
+<lastmod>2020-06-07T13:20:43-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/search</loc>
-<lastmod>2020-06-07T12:53:19-05:00</lastmod>
+<loc>http://localhost:4000/foundational-blog/search</loc>
+<lastmod>2020-06-07T13:20:43-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/guiding-thesis-on-urbanism/</loc>
+<loc>http://localhost:4000/foundational-blog/guiding-thesis-on-urbanism/</loc>
 <lastmod>2020-05-15T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/foundational-blog/</loc>
 </url>
 </urlset>
