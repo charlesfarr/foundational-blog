@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "charlesfarr.github.io/foundational-blog/"
+baseurl: "foundational-blog"
 
 highlighter: none
 

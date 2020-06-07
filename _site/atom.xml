@@ -4,7 +4,7 @@
  <title>Foundational</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-05T22:58:12-05:00</updated>
+ <updated>2020-06-07T12:53:19-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Charles Farr</name>
@@ -41,7 +41,7 @@
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;Jane is like so many Americans — stuck in traffic. Why? The American urban &amp;amp; suburban landscape is designed for cars and not for people&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Jane is like so many Americans — stuck in traffic. Why? The American urban &amp;amp; suburban landscape is designed for cars and not for people&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;The organization of America around the car began in the early 20th Century following Henry Ford’s invention of mass-production techniques for automobiles. After the Second World War the National Interstate &amp;amp; Defense Highways Act cemented the automobile’s dominance, further entrenching America’s obsession with the car and leading to increasing suburbanization &amp;amp; sprawl.&lt;/p&gt;
 
@@ -66,10 +66,10 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h3&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;This is a test &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This is a test &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
