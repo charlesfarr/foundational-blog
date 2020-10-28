@@ -18,6 +18,9 @@ baseurl: ''
 
 highlighter: none
 
+# Google Analytics
+google_analytics: G-YFDETE1Z94
+
 exclude:
   - .jekyll-cache
 

@@ -34,4 +34,7 @@
     {{ include_to_scssify | scssify }}
   </style>
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>
