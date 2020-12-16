@@ -104,9 +104,18 @@ blockquote {
 }
 
 h1,h2,h3,h4,h5 {
-	line-height: 1;
+	line-height: 1.5;
 	margin: 1rem 0;
 	font-weight: 600;
+}
+
+.post h2, .post h3, .post h4 {
+	color: #495057 !important;
+	font-weight: 700;
+}
+
+.post h4 {
+	font-size: 1.05rem;
 }
 
 section h1:first-child {
@@ -138,6 +147,25 @@ strong, b {
 	display:flex;
 	justify-content:space-between;
 	margin-bottom: .5rem;
+	margin-left: .5rem;
+}
+
+.hanging-indent + ul > li {
+		// padding-left: 22px;
+		// text-indent: -22px;
+}
+
+.hanging-indent + ul > li:not(:last-child) {
+		padding-bottom: 1em;
+}
+
+.hanging-indent + ol > li {
+		padding-left: 22px;
+		text-indent: -22px;
+}
+
+.hanging-indent + ol > li:not(:last-child) {
+		padding-bottom: 1em;
 }
 
 .posts li a, .posts li div, .projects li a {
@@ -154,7 +182,13 @@ strong, b {
 }
 
 .post ul, .project ul, .post ol  {
-	//list-style-position: inside;
+	list-style-position: outside;
+	padding-left: 2rem;
+}
+
+.post li {
+	// text-indent: 10px ;
+	padding-left: 10px;
 }
 
 main {
@@ -176,7 +210,7 @@ header li {
 }
 header ul {
 	border-bottom: 1px solid #edf2f7;
-	padding-bottom: 2rem;	
+	padding-bottom: 2rem;
 }
 nav ul {
     border-right: 0px;
@@ -194,7 +228,7 @@ section {
 	min-width:70%;
 	display:flex;
 	flex-direction:column;
-	
+
 }
 
 figcaption {

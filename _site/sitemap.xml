@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/about</loc>
-<lastmod>2020-10-28T11:52:15-05:00</lastmod>
+<loc>http://localhost:4000/about</loc>
+<lastmod>2020-12-16T09:41:11-06:00</lastmod>
 </url>
 <url>
-<loc>/search</loc>
-<lastmod>2020-10-28T11:52:15-05:00</lastmod>
+<loc>http://localhost:4000/search</loc>
+<lastmod>2020-12-16T09:41:11-06:00</lastmod>
 </url>
 <url>
-<loc>/guiding-thesis-on-urbanism/</loc>
-<lastmod>2020-05-15T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/right-sizing-mobility.html</loc>
+<lastmod>2020-12-15T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
