@@ -70,7 +70,7 @@ Researchers at Duke estimated that air pollution will cause 4.5 million prematur
 
 The resulting economic value from mitigating these huge losses in life and productivity would pay for the energy transition to sustainable sources alone and would help the US stay below the 2°C pathway required to combat the worst impacts of climate change.  
 
-## What does Right-Sizing Mobility / People-Centric Mobility look like? How do we get there?   
+## What does right-sizing mobility entail? What does People-Centric Mobility look like? How do cities get there?   
 
 Addressing the challenges of congestion, pedestrian safety, inequity and inequality, contribution to climate change, and air pollution is critical for cities if they hope to continue to grow and thrive. I believe cities should make "right-sizing" mobility a cornerstone of their strategy to address these issues, supporting a transition to a more People-Centric Mobility paradigm.  
 
@@ -84,7 +84,7 @@ Building towards People-Centric Mobility requires broad policies to support the 
 
 There are **four key pillars** of a right-sizing strategy, including...  
 
-#### (1) Build better pedestrian and bike infrastructure  
+#### Pillar 1: Build better pedestrian and bike infrastructure  
 
 Building dedicated bike infrastructure & bikeshare programs induce demand for cycling and increase safety for cyclists and other road users.
 
@@ -94,7 +94,7 @@ In addition to inducing demand for cycling, dedicated bicycle infrastructure hel
 
 Similar to dedicated bike infrastructure, the deployment of bikeshare programs (including both docked and dockless) induces demand for cycling and raises drivers' awareness, benefitting all cyclists' safety.  
 
-#### (2) Support the development and adoption of new micromobility modes and form factors
+#### Pillar 2: Support the development and adoption of new micromobility modes and form factors
 
 Even with additional dedicated infrastructure, the wide-scale adoption of bicycles for all types of trips faces hurdles. Most bikes lack carrying capacity, constraining bicycles' utility for shopping. Cycling requires significant effort for longer rides, constraining bicycles' utility for longer trip types such as commuting. Bicycles' lack of protection from the elements results in seasonal ridership trends.  
 
@@ -108,7 +108,7 @@ More innovation is on the horizon with new form factors. Germany's ONO recently 
 
 In Paris, Citroen recently deployed a fleet of their new Ami model. The vehicle looks like a mini-car but is technically a quadricycle, weighing in at under 500kg while topping out at 45kmh (~28mph). Due to its classification, it can be driven by licensed users as young as 14-years old.  
 
-#### (3) Boost the service levels of public transportation and deploy new mobility services to better support commutes between neighborhood centers  
+#### Pillar 3: Boost the service levels of public transportation and deploy new mobility services to better support commutes between neighborhood centers  
 
 The reality is that COVID has changed mobility patterns in cities today, a phenomenon that is likely to linger for the foreseeable future. As office leases run out and teleworking becomes more acceptable, commuting patterns will change.  
 
@@ -118,7 +118,7 @@ To support these new transit patterns, city transit agencies will need to adjust
 
 These new commuting patterns are great opportunities for cities to provide their residents with new transit options. Increasing integration of e-bikes into bikeshare fleets makes many of these inter-neighborhood trips easier, while the rollout of dockless e-scooters accomplishes the same for intra-neighborhood trips. Pairing mass transit and micromobility strategies can make cities' mobility infrastructure more flexible and resilient.  
 
-#### (4) Incentivize the adoption of alternative mobility modes using both subsidies (carrots) & pricing mechanisms (sticks)  
+#### Pillar 4: Incentivize the adoption of alternative mobility modes using both subsidies (carrots) & pricing mechanisms (sticks)  
 
 Providing consumers with subsidies for the purchase of electric vehicles has effectively driven EVs' adoption. By doing the same for electric micromobility purchases, cities can encourage & drive the adoption of new form factors. The result is an increasing mode-shift towards alternative mobility modes for a wider range of trip types.  
 
