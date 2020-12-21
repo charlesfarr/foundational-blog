@@ -4,7 +4,7 @@
  <title>Foundational</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-12-20T23:41:19-06:00</updated>
+ <updated>2020-12-20T23:50:55-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Charles Farr</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Right Sizing Mobility In Our Cities</title>
-   <link href="http://localhost:4000/2020/12/15/right-sizing-mobility-in-our-cities"/>
-   <updated>2020-12-15T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2020/12/15/Right-Sizing-Mobility-In-Our-Cities</id>
+   <title>In Support Of People-Centric Mobility</title>
+   <link href="http://localhost:4000/city/people-centric-mobility"/>
+   <updated>2020-12-20T00:00:00-06:00</updated>
+   <id>http://localhost:4000/city/Right-Sizing-Mobility-In-Our-Cities</id>
    <content type="html">&lt;p&gt;Merriam Webster defines &lt;strong&gt;mobility&lt;/strong&gt; in two ways:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -176,7 +176,7 @@
       &lt;p&gt;Multi-modal trips use various types of mobility, such as walking and the bus or using bikeshare and the subway. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. &lt;em&gt;If you build [highways], they will [drive],&lt;/em&gt; or some such &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. &lt;em&gt;If you build it (highways), they will come (to drive),&lt;/em&gt; or some such &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;

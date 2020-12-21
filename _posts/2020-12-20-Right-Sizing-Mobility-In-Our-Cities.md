@@ -1,3 +1,10 @@
+---
+layout: 'page'
+title: 'In Support Of People-Centric Mobility'
+permalink: '/city/people-centric-mobility'
+category: 'city'
+---
+
 Merriam Webster defines **mobility** in two ways:
 
 1. the quality or state of being mobile or movable;
@@ -137,4 +144,4 @@ Ultimately, I believe prioritizing people-centric mobility will make cities more
 
 [^2]: Multi-modal trips use various types of mobility, such as walking and the bus or using bikeshare and the subway.
 
-[^3]: Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. _If you build [highways], they will [drive],_ or some such
+[^3]: Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. _If you build it (highways), they will come (to drive),_ or some such
