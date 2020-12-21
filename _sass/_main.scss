@@ -125,6 +125,10 @@ h1,h2,h3,h4,h5 {
 	font-size: 1.05rem;
 }
 
+.post p strong {
+	color: #495057 !important;
+}
+
 .post .footnotes::before {
 	content: 'Footnotes';
 	color: #495057 !important;
