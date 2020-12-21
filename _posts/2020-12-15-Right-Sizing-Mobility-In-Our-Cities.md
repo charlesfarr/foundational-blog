@@ -1,163 +1,140 @@
----
-layout: "post"
-title: "Right Sizing Mobility In Our Cities"
-permalink: "/right-sizing-mobility.html"
----
-Merriam Webster defines **mobility** in two ways:  
+Merriam Webster defines **mobility** in two ways:
 
 1. the quality or state of being mobile or movable;
-2. the ability to change one's social or socioeconomic position in a community and especially to improve it.  
 
-While the dictionary definition does not explicitly link (1) **physical** mobility and (2) **social & economic** mobility, it is easy to see how they are intertwined. If a citizen is unable to tap into the economic benefits of a city because their mobility is physically limited, this will impact their ability to change their social and economic standing.  
+2. the ability to change one's social or socioeconomic position in a community and especially to improve it.
 
-As such, physical mobility is critically important for all citizens' lives and is a key area of focus for governments large and small.  
+While the dictionary definition does not explicitly link (1) physical mobility and (2) social & economic mobility, the two are inherently intertwined. If a citizen is unable to tap into the economic benefits of a city because their mobility is physically limited, their ability to change their social and economic standing decreases as well.
 
-In the United States today, physical mobility is achieved primarily by automobiles due to years of auto-centric transportation and planning policies. The result is the automobile has been and continues to be one of the most influential forces in American cities and Americans' lives.  
+As such, physical mobility is critically important for all citizens' lives and is a key area of focus for municipal, state, & federal governments.
 
-However, as we approach the challenges of the 21st Century — including combating climate change, reducing inequality, and fostering economic growth — reliance on automobiles alone seems to be an increasingly futile strategy.  
+In the United States today, physical mobility relies primarily on automobiles, the result of years of auto-centric transportation and planning policies. The automobile has been and continues to be one of the most influential forces in American cities and Americans' lives.
 
-So what is the solution?  
+However, as we approach the challenges of the 21st Century, including combating climate change, reducing inequality, and fostering economic growth, reliance on automobiles alone is an increasingly futile strategy.
 
-I believe that cities and towns need to foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement, without wholesale reliance on automobiles. In doing so, cities and towns will foster greater economic prosperity for their citizens, meet the tough climate challenges that lay ahead, and generally improve the quality of life of their citizens.  
+To tackle the challenges of climate change, inequality, and growth, I believe the United States must foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities' reliance on automobiles, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.
 
-How does People-Centric Mobility accomplish all of that? First, let's take a more in-depth look at the problems facing cities today before we jump into why People-Centric mobility is the right solution.  
+How does people-centric mobility accomplish this all? Let's take an in-depth look at the issues facing cities today to understand.
 
-## Downsides of Auto-Centric Planning  
+## Downsides of Car-Centric Planning
 
-In the United States today, the car has shaped how we build our cities. Ever since the automobile's mass production began at the start of the 20th Century, US cities have centered their approach to mobility on the automobile. The result is an urban landscape that prioritizes the automobile over all forms of mobility.
+US cities have centered their mobility strategy around the car since cars began mass production at the start of the 20th Century. The result is an urban landscape that prioritizes the automobile over all other forms of mobility.
 
-In many of America's largest cities, over 50% of total real estate is dedicated to automobiles, either in the form of roads or parking. Estimates peg the total percentage of land dedicated to roads at 42% for Chicago, 37% for Phoenix, and 28% for New York City.
+As proof of the car's dominance, we needn't look any further than land-use statistics. In many of America's largest cities, over 50% of total real estate is dedicated to cars either in the form of roads or parking. Estimates peg the total percentage of land dedicated to roads alone at 42% for Chicago, 37% for Phoenix, and 28% for New York City.
 
-In contrast, the most car-centric European cities dedicate roughly 25% of land to car use, a proportion that is lower in many historic cities. In contrast, America's allotment of space for cars is much higher. Meanwhile, dedicated bike infrastructure represents close to zero percent of land use in the United States, while public transit also commands a relatively small percentage.   
+In contrast, the most car-centric European cities dedicate about 25% of land to cars, a proportion that is lower in Europe's most historic cities. Meanwhile, dedicated bike infrastructure represents close to zero percent of land use in the United States, while public transit also commands a relatively small percentage.
 
-This auto-centric approach to planning was driven by a booming 20th Century economy and the idea of the "American Dream." Now it has left cities to deal with a gloomier reality.  
+The reality is that car-centric infrastructure is not optimized for 21st Century cities.  As cities grapple with the car's shortcomings, there is a litany of issues that demand the bulk of their attention...
 
-#### High-levels of congestion, impacting cities productivity and citizens' wellbeing.
+#### Cities are experiencing high-levels of congestion impacting productivity and residents' wellbeing
 
-It is estimated that Americans spend 100 hours sitting in traffic each year, valued at an estimated $88BN. For an average American, that equates to ~$1,500 per year. The impact is worse in the most congested cities: $2,000+ per year in Boston, Chicago, Philadelphia, and New York. Leading urban planner & economist Alain Bertaud describes congestion as "as a tax on cities' productivity" in his book _Order Without Design_.
+It is estimated that the average American spends 100 hours sitting in traffic each year, valued at an estimated $88BN total or ~$1,500 per person. The impact is worse in the most congested cities: $2,000+ per year in Boston, Chicago, Philadelphia, and New York. Leading urban planner and economist Alain Bertaud describes congestion as "as a tax on cities' productivity" in his book __Order Without Design__  — these totals illustrate why.
 
-The impact of congestion is not solely financial. Congestion also increases the total air pollution and greenhouse gas emissions and increases the negative health benefits of prolonged time spent in a car.  
+Congestion also increases the total air pollution, greenhouse gas emissions, and the chronic disease burden associated with extended time spent in a car.
 
-The congestion in the United States is generally caused by an over-reliance on cars and the lack of alternative mobility means. The emergence of new rideshare and e-commerce business models has increased the number of commercial vehicles on the road and contributed further to congestion.  
+The root cause of congestion in the United States is an over-reliance on cars and the lack of alternative mobility means. Unfortunately, it is likely to get worse without intervention as the emergence of new rideshare and e-commerce business models is increasing the number of commercial vehicles on the road with no natural end in sight.
 
-#### Decreased pedestrian safety, resulting in an estimated ~6.6K pedestrian fatalities in 2019.
+#### Pedestrian safety has also decreased over the past decade, resulting in an estimated ~6.6K pedestrian fatalities in 2019
 
-In 2019, the Governors Highway Safety Association estimated that ~6.6k pedestrians were killed in fatal interactions with automobiles, representing 17% of total fatalities from automobile accidents (~39K total). This represents a significant increase from a decade prior when pedestrian fatalities accounted for only 12% of total fatalities. Further examining the increase, pedestrian deaths grew by 69% while cyclist deaths rose by 48%.
+In 2019, the Governors Highway Safety Association estimated that 6.6k pedestrians were killed in fatal interactions with automobiles, representing 17% of total fatalities from automobile accidents (39K total). This is a 5% increase from a decade prior when pedestrian fatalities accounted for only 12% of the total.
 
-The increase in total pedestrian fatalities is driven by an increasing number of vehicles on the road and an increase in those vehicles' size. These two trends are rooted in auto-centric planning policies, which prioritize automobiles' movement at the expense of pedestrians' safety (walkers, bicyclists, transit users, etc.).  
+These statistics are the product of an increasing number of vehicles on the road and an increase in those vehicles' size, which are ultimately rooted in cars-centric planning policies and car culture.
 
-#### An inequitable mobility distribution, predominantly impacting Black and Hispanic households and their exposure to economic opportunities in the city.
+#### Mobility inequity disproportionately affects marginalized and minoritized communities in the urban environment. As such, their access to economic opportunities is constrained.
 
-In American cities today, Black & Hispanic households are less likely to have access to automobiles and quality public transit, mainly due to racist policies implemented throughout the 20th Century.[^1]
+In American cities today, Black & Hispanic households are less likely to have access to automobiles, quality public transit, and alternative mode of mobility.
 
-Research from the Center for Neighborhood Technology (CNT) has found that Black households living below the poverty line have access to 7% fewer transit trips per week than white residents. Additionally, the routes these households have access to are less likely to operate on a high-frequency schedule. Furthermore, CNT found that Black households have less access to bikeshare and carshare than white and when utilizing rideshare services (Uber & Lyft), African Americans' experience longer wait times.
+Research from the Center for Neighborhood Technology (CNT) has found that Black households living below the poverty line have access to 7% fewer transit trips per week and routes that are less likely to operate on a high-frequency schedule than white households. Furthermore, CNT found that Black households have less access to bikeshare and carshare than white and when utilizing rideshare services (Uber & Lyft), African Americans' experience longer wait times.
 
-This lack of mobility alternatives is especially impactful as car ownership looks very different for White, Black, & Hispanic populations. 40% of Black & Hispanic households living in poverty do not own a car, compared to 28% of white households living in poverty.
+The lack of mobility alternatives is especially impactful when accessing car ownership by race and ethnicity. 40% of Black & Hispanic households living in poverty do not own a car, compared to 28% of white households.
 
-This inequity in mobility distribution results in communities of color having less access to employment and labor markets via public transit.
+#### The decreased mobility impacting communities of color results in less access to employment and labor markets.
 
-CNT found that across a sample of 10 large US metros African Americans had 31% fewer jobs requiring an associate's degree or less than whites. The study also found that ~40% of African Americans and Hispanics living in poverty who rely on public transit must commute for at least an hour to get to their place of employment.
+CNT found that across a sample of 10 large US metros, African Americans had access to 31% fewer jobs requiring an associate's degree within a 30-minute commute. Limited jobs in close proximity translates to longer commutes, with approximately 40% of African Americans and Hispanics living in poverty commuting for over an hour by public transit to access employment.
 
-#### High-levels of greenhouse gas emissions, contributing to climate change and impacting the United States' ability to meet its obligations under the Paris Climate Accord.
+#### Personal transportation accounts for approximately 17% of greenhouse gas emissions in the United States.
 
-Currently, personal vehicles — cars & trucks classified as light-duty — account for 16.6% of greenhouse gas emissions in the United States, accounting for 59% of total greenhouse gas emissions from transportation.  
+Decreasing total emissions from personal transportation is paramount to mitigating the worst impacts of climate change and meet the US' obligations under the Paris Climate Accord. While the transition to electric vehicles is an important goal to pursue, electric vehicles will continue to contribute to emissions the current power grid continues to draws upon fossil fuels for energy production.
 
-Decreasing this total is paramount to meeting the United States' commitment previously made at the Paris Climate Accord. Unfortunately, electric automobiles alone will not decrease these emissions, so long as the current power grid draws on natural gas and coal.  
+#### The combustion of fossil fuels also contributes to high levels of air pollution, resulting in significant public health impacts and a huge number of premature deaths.
 
-#### High-levels of air pollution, resulting in significant health impacts and premature deaths.
+Researchers at Duke estimated the total over the next 50 years includes 4.5 million premature deaths, 3.5 million hospitalizations, and 300 million lost workdays. Transitioning away from the usage of fossil fuels responsible for the pollution would prevent these impacts. The resulting economic benefits from mitigating these losses in life and productivity would justify the costs of the energy transition alone.
 
-Researchers at Duke estimated that air pollution will cause 4.5 million premature deaths, 3.5 million hospitalizations, and 300 million lost workdays over the next 50 years in the US. Transitioning away from the usage of fossil fuels, a large part of which is emitted by transportation, would prevent these impacts.   
+## Four Pillars to Support People-Centric Mobility
 
-The resulting economic value from mitigating these huge losses in life and productivity would pay for the energy transition to sustainable sources alone and would help the US stay below the 2°C pathway required to combat the worst impacts of climate change.  
+Addressing the issues associated with car-centric policy, namely congestion, safety, unequal access to mobility, greenhouse gas emissions, and air pollution, and the bigger challenges these led to, specifically climate change, increasing inequality, and decreasing growth, is critical for cities' continued vitality. I believe cities should make "right-sizing" their mobility infrastructure a cornerstone of their approach to these issues, ultimately supporting a transition to a people-centric mobility paradigm.
 
-## What does right-sizing mobility entail? What does People-Centric Mobility look like? How do cities get there?   
+So what does people-centric mobility look like and how can cities build towards it?
 
-Addressing the challenges of congestion, pedestrian safety, inequity and inequality, contribution to climate change, and air pollution is critical for cities if they hope to continue to grow and thrive. I believe cities should make "right-sizing" mobility a cornerstone of their strategy to address these issues, supporting a transition to a more People-Centric Mobility paradigm.  
+"People-centric" mobility emphasizes the pedestrian and their movement, turning away from relying mainly on cars and prioritizing walking and micromobility[^1] instead.
 
-So what does People-Centric mobility look like and how can cities work towards it?  
+Bolstering public transportation is also critical for people-centric mobility, as multi-modal trips[^2] are crucial to the strategy's success. By enabling residents to travel further without the need for a car, public transit boosts the utility of complementary modes such as walking or cycling.
 
-Again, "People-centric" mobility emphasizes the pedestrian and their movement, moving away from reliance on automobiles. This definition includes walking, micromobility (such as bicycles 🚲, scooters 🛴, moped 🛵, tricycles & quadricycles 🛺, mini-cars 🚗, clown cars 🤡, and other yet-to-emerge form factors 🚜).
+While people-centric mobility requires the adoption of a wide range of mobility modes and devices, the good news is the infrastructure and policies needed to support each mode are complementary — for instance, supporting walkers almost always benefits cyclists and public transit users as well.
 
-People-Centric Mobility is also multi-modal, meaning travelers use various modes to complete a given trip. As such, People-Centric Mobility also includes public transit 🚃. Public transit extends the ability to use other People-Centric forms of mobility (like walking or bikeshare), allowing residents to travel further in the same amount of time and contributing minimally to pedestrian safety issues, GHG emissions, and air pollution while actively addressing mobility inequality and congestion.  
+What are the pillars cities can use to transition to and support people-centric mobility?
 
-Building towards People-Centric Mobility requires broad policies to support the numerous forms of mobility under its umbrella. The good news is that these strategies are often complementary — policies to support pedestrians often benefit both bike riders and public transit users.  
+#### Pillar 1: Build better pedestrian and bike infrastructure
 
-There are **four key pillars** of a right-sizing strategy, including...  
+Dedicated infrastructure programs induce demand[^3] for cycling and pedestrian activities along with increasing pedestrian safety.
 
-#### Pillar 1: Build better pedestrian and bike infrastructure  
+Just as the construction of additional roadways induces demand for driving, pedestrian and bike infrastructure does the same for walking, cycling, and micromobility.
 
-Building dedicated bike infrastructure & bikeshare programs induce demand for cycling and increase safety for cyclists and other road users.
+Demand is induced due to the decreased level of effort required to complete a trip by bicycle or on foot, mainly due to shorter routes and increased levels of safety. In a car-centric world, walkers and cyclists often need to take circuitous routes to ensure their safety and when there aren't any, those who are able often resort to using a car. Dedicated infrastructure increases safety, both perceived and realized.
 
-Just as the construction of additional roadways induces demand[^2], the construction of bike infrastructure induces demand for cycling and micromobility modes. Therefore, it is critical for cities to build dedicated bike infrastructure to encourage more cycling and mode-shift away from driving.  
+Additionally, cities should pursue continued expansion of bikeshare programs, allowing fleets to support a greater number of trip types. A secondary benefit of bikeshare programs is their impact on driver awareness of cyclists; similar to dedicate bike infrastructure, bikeshare increases awareness of cyclists, thereby increasing the caution of drivers who share the road.
 
-In addition to inducing demand for cycling, dedicated bicycle infrastructure helps directly protect cyclists from cars. It also boosts drivers' awareness of cyclists, which translates to further increases in cyclist safety.  
+#### Pillar 2: Support the development and deployment of new micromobility modes and form factors
 
-Similar to dedicated bike infrastructure, the deployment of bikeshare programs (including both docked and dockless) induces demand for cycling and raises drivers' awareness, benefitting all cyclists' safety.  
+The wide-scale adoption of bicycles for urban trips faces hurdles due to bicycles' natural abilities. Most bikes lack carrying capacity, constraining bicycles' utility for shopping; biking requires significant effort, constraining bikes' utility for longer trips (e.g., commuting); and bikes lack protection from the elements, resulting in seasonal ridership trends. The good news is the emergence of electric pedal-assist bicycles (e-bikes) and other micromobility form factors, like e-scooters, cargo bikes, and mini-cars, can help overcome many of these constraints.
 
-#### Pillar 2: Support the development and adoption of new micromobility modes and form factors
+E-bikes are ideal for commuting as they decrease the overall strain required and lower the barrier for use. Research conducted by bicycle insurance provider Bikmo found that 33% of surveyed individuals with e-bikes use them for commuting, signaling increasing adoption for trips when riders are looking to minimize exertion.
 
-Even with additional dedicated infrastructure, the wide-scale adoption of bicycles for all types of trips faces hurdles. Most bikes lack carrying capacity, constraining bicycles' utility for shopping. Cycling requires significant effort for longer rides, constraining bicycles' utility for longer trip types such as commuting. Bicycles' lack of protection from the elements results in seasonal ridership trends.  
+Cargo bikes and cargo e-bikes are enabling personal and commercial users to complete trips that previously required a car or commercial vehicle for the added capacity. In Germany, IKEA has begun to rent cargo e-bikes to their customers for transporting larger goods home and in many North American cities, large parcel carriers like FedEx and UPS are testing cargo e-bikes for deliveries.
 
-The good news is the emergence of electric pedal-assist bicycles (e-bikes) and other micromobility form factors — such as e-scooters, cargo bikes & e-bikes, and mini-cars — can help overcome many of these constraints, resulting in greater adoption and a mode-shift away from automobiles.  
+Further innovation of new form factors is ongoing. For commercial use, Germany's ONO recently raised 3 million euros to produce a new e-tricycle more closely resembling a van more than a trike. The benefits of the design include a powerful pedal-assist electric motor, an enclosed cabin to ward out the elements, and significant cargo-carrying capacity. For personal use, Citroen is deploying a fleet of their new Ami quadricycle in the streets of Paris. While the Ami looks like a car, it weighs in at a little under 500kg and only tops out at 45kmh (~28mph). Due to its classification as a quadricycle, it can even be driven by licensed users as young as 14-years old!
 
-E-bikes are ideal for commuting as they decrease the overall strain required, lowering the barrier for potential users. Research conducted by bicycle insurance provider Bikmo found that 33% of surveyed individuals with e-bikes use them for commuting, signaling increasing adoption.  
+#### Pillar 3: Boost service levels of public transit and deploy new mobility services to better support commutes between neighborhood centers
 
-Cargo bikes and cargo e-bikes enable both personal and commercial users to complete trips that previously required a car or commercial vehicle. In Germany, IKEA has begun to rent cargo e-bikes to their customers for transporting larger goods home. In many North American cities, large parcel carriers like FedEx and UPS are testing cargo e-bikes for deliveries.  
+COVID has changed mobility patterns in cities, eliminating the commute for many professionals and increasing the importance of mobility for essential workers. Both phenomena are likely to persist in the near-term as office leases run out, teleworking becomes more common, and cities focus on supporting economic revival.
 
-More innovation is on the horizon with new form factors. Germany's ONO recently raised 3 million EUR to develop & deploy a new cargo e-tricycle, more closely resembles a small van than a bike. The new design is completely covered to ward out the elements while providing significant amounts of cargo capacity.  
+Therefore, cities do not need to prioritize mobility for peak commuters to the same degree as they do today. Instead, cities need to prioritize inter- and intra-neighborhood travel, which is constitutes a higher proportion of all trips and people substitute their commutes for an increasing number of personal trips.
 
-In Paris, Citroen recently deployed a fleet of their new Ami model. The vehicle looks like a mini-car but is technically a quadricycle, weighing in at under 500kg while topping out at 45kmh (~28mph). Due to its classification, it can be driven by licensed users as young as 14-years old.  
+Prioritizing these new transit patterns requires city transit agencies to adjust schedules to support off-peak travel and routes to enable greater trips between more dispersed locations. Cities should also work to support new emerging mobility options. The increasing integration of e-bikes into bikeshare fleets makes many of these inter-neighborhood trips easier, while the rollout of dockless e-scooters accomplishes the same for intra-neighborhood trips. Pairing mass transit and micromobility strategies can make cities' mobility infrastructure more flexible, resilient, and people-centric.
 
-#### Pillar 3: Boost the service levels of public transportation and deploy new mobility services to better support commutes between neighborhood centers  
+#### Pillar 4: Incentivize the adoption of alternative mobility modes using subsidies & pricing mechanisms
 
-The reality is that COVID has changed mobility patterns in cities today, a phenomenon that is likely to linger for the foreseeable future. As office leases run out and teleworking becomes more acceptable, commuting patterns will change.  
+Providing consumers with subsidies for the purchase of electric vehicles has effectively driven the adoption of EVs. By doing the same for electric micromobility purchases cities can encourage the adoption of new mobility form factors, resulting in a mode-shift away from cars across a wide range of trip types.
 
-As such, the need for cities to prioritize supporting mobility for peak commuters, those headed into central business districts of the city at rush hour, is decreasing. Contrary to hot-takes calling this the death knell for cities, it simply means that inter- and intra-neighborhood travel is more important, as people stay closer to home or jump between neighborhood commercial districts.  
+In tandem, cities need to begin pricing the externalities of car usage and pass a portion of these costs along to road users. Forcing road users to bear a portion of the externalized costs of car use will push road-users to be more cognizant of the trade-offs in their choice of mobility mode.
 
-To support these new transit patterns, city transit agencies will need to adjust their approaches to better support off-peak travel and travel behind more dispersed locations. This may mean that scheduling is steady throughout the day and new bus routes are needed to better knit cities together.  
+Cities can leverage a wide variety of pricing mechanisms to meet their policy goals including congestion fees & surcharges, parking fees, curb-use fees, and broader carbon taxes. Allowing cities to select from the various mechanisms enables them to choose the most appropriate one for their goals.
 
-These new commuting patterns are great opportunities for cities to provide their residents with new transit options. Increasing integration of e-bikes into bikeshare fleets makes many of these inter-neighborhood trips easier, while the rollout of dockless e-scooters accomplishes the same for intra-neighborhood trips. Pairing mass transit and micromobility strategies can make cities' mobility infrastructure more flexible and resilient.  
+Price mechanisms also provide an opportunity for leaders to communicate the financial benefits of alternative mobility, as automobile ownership is significantly more expensive. With an increase in the total cost of ownership for cars and increased accessibility through subsidies, the financial case for adopting alternative mobility is strong.
 
-#### Pillar 4: Incentivize the adoption of alternative mobility modes using both subsidies (carrots) & pricing mechanisms (sticks)  
+## The Benefits of People-Centric Mobility
 
-Providing consumers with subsidies for the purchase of electric vehicles has effectively driven EVs' adoption. By doing the same for electric micromobility purchases, cities can encourage & drive the adoption of new form factors. The result is an increasing mode-shift towards alternative mobility modes for a wider range of trip types.  
+These four pillars can support a robust people-centric strategy and address the issues associated with the auto-centric mobility that burden cities today.
 
-Less popular but likely necessary to seriously move the needle on automobile usage is pricing the externalities of automobile use and charging for them.
+Building dedicated infrastructure and increasing awareness of all road users boost pedestrian safety, driving down the fatality rate that has climbed over the last decade.
 
-Passing along a portion of the externalized costs associated with automobiles and their use helps cities push citizens to be more cognizant of the trade-offs between different modes of mobility.  
+- Increasing the usage of alternative mobility decreases the usage of cars, reducing both the total greenhouse gas emissions and air pollution.
 
-As automobile ownership is significantly more expensive than People-Centric modes of mobility already, increasing the cost to better reflect the burden automobiles place on the built environment and the climate, more citizens are likely to choose cheaper means of mobility than do today.
+- Supporting the wider range of trip types common in the post-COVID cities increases mobility access and the equity of a city's mobility landscape.
 
-There are many different pricing mechanisms available for cities to experiment with, including congestion fees & surcharges, parking fees (higher than today), curb-use fees, and broader carbon taxes.  
+- Perhaps the most convincing argument is the benefit to the remaining drivers. Decreasing the number of cars on cities' roads and highways decreases congestion.
 
-## Why is pursuing People-Centric Mobility a worthwhile strategy?  
+In addition to addressing the pressing issues facing cities, people-centric mobility generates a number of secondary benefits.
 
-Pursuing these four pillars allows cities to address many of the pressing issues they facing today and, in many instances, represent small-dollar investments relative to massive new transportation projects.   
+- Increasing the number of active commutes while decreasing exposure to congestion and air pollution generates huge public health benefits, resulting in a healthier and happier city.
 
-Dedicate bike and bus lanes can be piloted for the cost of paint and stanchions, while more permanent infrastructure is less expensive than most road repairs — all pail in comparison to the cost of new rail or subway lines.  
+- Increasing the volume of pedestrians on cities' streets leads to an increase in economic activity. Running contrary to many business owners' fears, the removal of parking and expansion of sidewalks and bike lanes is shown to increase customer spending. Shockingly pedestrians are more likely to stop and shop than drivers buzzing by in their car!
 
-The benefits of a People-Centric approach are varied...  
-<div class="hanging-indent"></div>
-- Building dedicated infrastructure and raising the drivers' awareness that they share the road **boosts pedestrian safety**, driving down the fatality rate that has climbed higher and higher in recent years.  
-- Increasing adoption and usage of alternative mobility modes leads to a **decrease in greenhouse gas emissions** as people rely on automobiles less and less. An e-bike charged on a grid supplied by fossil fuels uses almost no fossil fuel, while an EV only cuts down on a portion of the emissions generated by an internal combustion engine car.  
-- Increase usage of alternative mobility modes also **reduces the total air pollution **generated by automobiles, leading to a more pleasant city environment and mitigating some of the health effects associated with pollution.  
-- Better supporting alternative means of transit and new models for public transit **increases the equity of a city's mobility landscape**. As many low-income populations rely on public-transit and bicycles today, prioritizing their support will lead to increased exposure and access to economic opportunities across the city.
-- Decreasing demand for driving **decreases congestion on cities' roadways**, benefitting the drivers that remain with easier commutes. It is important to note that automobiles will still remain a part of American cities' mobility landscape for the foreseeable future. Still, the hope is automobiles will be better integrated into the fabric of the city.
+Ultimately, I believe prioritizing people-centric mobility will make cities more resilient in the face of the 21st Century's challenges. Not only that, but prioritizing people over cars will result in happier populations and a more productive, creative, and innovative city. Cities are built and sustained by their citizens and their relationships, by placing people at the center of their mobility strategies, cities can tap into the greatest strength and provide a better outcome for all.
 
-In addition to addressing some of the most important issues facing cities today, People-Centric Mobility generates a number of secondary benefits...  
-<div class="hanging-indent"></div>
-- Increased physical activity and decreased exposure to congestion generate **positive health benefits** for a city's population. Active commutes are associated with better overall physical fitness while reducing the physical stress caused by commuting has both physical and mental health benefits.  
-- Increased numbers of pedestrians — including walkers, cyclists, and other micromobility users — **generates additional economic activity** for business along pedestrianized sidewalks and streets. Contrary to business owners' fears that the addition of bike lanes or parking removal will hurt business, these strategies have been shown to increase customer spending time and time again. Pedestrians are more likely to stop and shop than drivers who buzz by in their cars.  
 
-## Conclusion  
+[^1]: Micromobility includes bicycles 🚲, scooters 🛴, mopeds 🛵, tricycles & quadricycles 🛺, mini-cars 🚗, clown cars 🤡, and other yet-to-emerge innovations and form-factors 🚜.
 
-Undertaking a strategy to support People-Centric Mobility will enable a city to make headway in its fight against some of the biggest issues they face.  
+[^2]: Multi-modal trips use various types of mobility, such as walking and the bus or using bikeshare and the subway.
 
-Additionally, it will help cities stand apart from their peers, which is increasingly important as the location matters less and less for work. As individuals choose where to live, the draw of firms will lessen, while the importance of wellbeing will increase.  
-
-Cities that prioritize People-Centric Mobility strategy will become more resilient in the face of the challenges they are facing and more productive, creative, and innovative, as they entice more and more movers to choose them over their others.  
-
-#### Footnotes
-<div class="hanging-indent"></div>
-[^1]: Auto-centric planning was used a bludgeon to destroy vibrant African American communities throughout the 20th Century. The suburbs, wholly dependent on the automobile to support commuters, enabled "white flight" and the economic disinvestment that followed. The urban highway and renewal projects that followed to support these new suburban commuters razed and further segregated thriving communities of color.
-[^2]: Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. _If you build [highways], they will [drive],_ or some such.
+[^3]: Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. _If you build [highways], they will [drive],_ or some such
