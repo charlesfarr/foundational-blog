@@ -14,13 +14,17 @@
 
   <meta name="twitter:site" content="@charlessimsfarr" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:creator" content="@charlessimsfarr" />
+  <meta name="twitter:title" content="{{page.title}}" />
 
-  <!-- I prefer the summary_large_image Twitter card for posts. -->
-    <meta name="twitter:card" content="summary" />
-    <!-- You, you're the creator. -->
-    <meta name="twitter:creator" content="@charlessimsfarr" />
-    <!-- This property is for the article title, not site title. -->
-    <meta name="twitter:title" content="{{page.title}}" />
+  {% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+    <meta name="twitter:image" content="{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="https://thefoundation.al/default_image_bricks.png" />
+    <meta name="twitter:image" content="https://thefoundation.al/default_image_bricks.png" />
+  {% endif %}
 
   {% seo title=false %}
 
