@@ -1,11 +1,11 @@
 site: Foundational
-url: ""
+url: https://thefoundation.al
 title: Foundational
-description: Charles Farr's blog on the underpinnings of modern life.
+description: Musings on the foundational elements of modern life
 twitter:
   username: charlessimsfarr
   card: summary
-  creator: #yourusername
+  creator: charlessimsfarr
 author:
   twitter: charlessimsfarr
   name: "Charles Farr"

@@ -1,9 +1,9 @@
 ---
 layout: 'page'
-title: 'In Support Of People-Centric Mobility'
+title: 'The Case For People-Centric Mobility'
 permalink: '/city/people-centric-mobility'
 category: 'city'
-image: '/assets/right-sizing-mobility-thumb.png'
+image: '/assets/png/right-sizing-mobility-thumb.png'
 excerpt: 'Cities should replace car-centric planning & policies with a people-centric mobility strategy'
 ---
 
