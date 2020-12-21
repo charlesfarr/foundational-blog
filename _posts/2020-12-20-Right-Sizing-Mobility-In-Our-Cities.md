@@ -3,6 +3,8 @@ layout: 'page'
 title: 'In Support Of People-Centric Mobility'
 permalink: '/city/people-centric-mobility'
 category: 'city'
+image: '/assets/right-sizing-mobility-thumb.png'
+excerpt: 'Cities should replace car-centric planning & policies with a people-centric mobility strategy'
 ---
 
 Merriam Webster defines **mobility** in two ways:
@@ -15,17 +17,17 @@ While the dictionary definition does not explicitly link (1) physical mobility a
 
 As such, physical mobility is critically important for all citizens' lives and is a key area of focus for municipal, state, & federal governments.
 
-In the United States today, physical mobility relies primarily on automobiles, the result of years of auto-centric transportation and planning policies. The automobile has been and continues to be one of the most influential forces in American cities and Americans' lives.
+In the United States today, physical mobility relies primarily on cars, the result of years of car-centric transportation and planning policies. The car has been and continues to be one of the most influential forces in American cities and Americans' lives.
 
-However, as we approach the challenges of the 21st Century, including combating climate change, reducing inequality, and fostering economic growth, reliance on automobiles alone is an increasingly futile strategy.
+However, as we approach the challenges of the 21st Century, including combating climate change, reducing inequality, and fostering economic growth, leaning on cars alone is an increasingly futile strategy.
 
-To tackle the challenges of climate change, inequality, and growth, I believe the United States must foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities' reliance on automobiles, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.
+To tackle the challenges of climate change, inequality, and growth, I believe the United States must foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities' reliance on cars, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.
 
 How does people-centric mobility accomplish this all? Let's take an in-depth look at the issues facing cities to understand.
 
 ## Downsides of Car-Centric Planning
 
-US cities have centered their mobility strategy around the car since cars began mass production at the start of the 20th Century. The result is an urban landscape that prioritizes the automobile over all other forms of mobility.
+US cities have centered their mobility strategy around the car since cars began mass production at the start of the 20th Century. The result is an urban landscape that prioritizes the car over all other forms of mobility.
 
 As proof of the car's dominance, we needn't look any further than land-use statistics. In many of America's largest cities, over 50% of total real estate is dedicated to cars either in the form of roads or parking. Estimates peg the total percentage of land dedicated to roads alone at 42% for Chicago, 37% for Phoenix, and 28% for New York City.
 
@@ -43,13 +45,13 @@ The root cause of congestion in the United States is an over-reliance on cars an
 
 #### Pedestrian safety has also decreased over the past decade, resulting in an estimated ~6.6K pedestrian fatalities in 2019
 
-In 2019, the Governors Highway Safety Association estimated that 6.6k pedestrians were killed in fatal interactions with automobiles, representing 17% of total fatalities from automobile accidents (39K total). This is a 5% increase from a decade prior when pedestrian fatalities accounted for only 12% of the total.
+In 2019, the Governors Highway Safety Association estimated that 6.6k pedestrians were killed in fatal interactions with cars, representing 17% of total fatalities from car accidents (39K total). This is a 5% increase from a decade prior when pedestrian fatalities accounted for only 12% of the total.
 
 These statistics are the product of an increasing number of vehicles on the road and an increase in those vehicles' size, which are ultimately rooted in cars-centric planning policies and car culture.
 
 #### Mobility inequity disproportionately affects marginalized and minoritized communities, constraining their access to economic opportunities.
 
-In American cities today, Black & Hispanic households are less likely to have access to automobiles, quality public transit, and alternative mode of mobility.
+In American cities today, Black & Hispanic households are less likely to have access to cars, quality public transit, and alternative mode of mobility.
 
 Research from the Center for Neighborhood Technology (CNT) has found that Black households living below the poverty line have access to 7% fewer transit trips per week and routes that are less likely to operate on a high-frequency schedule than white households. Furthermore, CNT found that Black households have less access to bikeshare and carshare than white and when utilizing rideshare services (Uber & Lyft), African Americans' experience longer wait times.
 
@@ -117,11 +119,11 @@ In tandem, cities need to begin pricing the externalities of car usage and pass 
 
 Cities can leverage a wide variety of pricing mechanisms to meet their policy goals including congestion fees & surcharges, parking fees, curb-use fees, and broader carbon taxes. Allowing cities to select from the various mechanisms enables them to choose the most appropriate one for their goals.
 
-Price mechanisms also provide an opportunity for leaders to communicate the financial benefits of alternative mobility, as automobile ownership is significantly more expensive. With an increase in the total cost of ownership for cars and increased accessibility through subsidies, the financial case for adopting alternative mobility is strong.
+Price mechanisms also provide an opportunity for leaders to communicate the financial benefits of alternative mobility, as car ownership is significantly more expensive. With an increase in the total cost of ownership for cars and increased accessibility through subsidies, the financial case for adopting alternative mobility is strong.
 
 ## The Benefits of People-Centric Mobility
 
-These four pillars can support a robust people-centric strategy and address the issues associated with the auto-centric mobility that burden cities today.
+These four pillars can support a robust people-centric strategy and address the issues associated with the car-centric mobility that burden cities today.
 
 Building dedicated infrastructure and increasing awareness of all road users boost pedestrian safety, driving down the fatality rate that has climbed over the last decade.
 
