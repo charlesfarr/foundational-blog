@@ -21,7 +21,7 @@ However, as we approach the challenges of the 21st Century, including combating 
 
 To tackle the challenges of climate change, inequality, and growth, I believe the United States must foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities' reliance on automobiles, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.
 
-How does people-centric mobility accomplish this all? Let's take an in-depth look at the issues facing cities today to understand.
+How does people-centric mobility accomplish this all? Let's take an in-depth look at the issues facing cities to understand.
 
 ## Downsides of Car-Centric Planning
 
@@ -29,13 +29,13 @@ US cities have centered their mobility strategy around the car since cars began 
 
 As proof of the car's dominance, we needn't look any further than land-use statistics. In many of America's largest cities, over 50% of total real estate is dedicated to cars either in the form of roads or parking. Estimates peg the total percentage of land dedicated to roads alone at 42% for Chicago, 37% for Phoenix, and 28% for New York City.
 
-In contrast, the most car-centric European cities dedicate about 25% of land to cars, a proportion that is lower in Europe's most historic cities. Meanwhile, dedicated bike infrastructure represents close to zero percent of land use in the United States, while public transit also commands a relatively small percentage.
+In contrast, the most car-centric European cities dedicate about 25% of land to cars, a proportion that is lower in Europe's most historic cities. Meanwhile, dedicated bike infrastructure occupies close to zero percent of land in the United States, with public transit also commanding a relatively small percentage.
 
-The reality is that car-centric infrastructure is not optimized for 21st Century cities.  As cities grapple with the car's shortcomings, there is a litany of issues that demand the bulk of their attention...
+The reality is that car-centric infrastructure is not optimized for 21st Century cities.  As cities grapple with the car's shortcomings, there is a litany of issues that demand their attention...
 
 #### Cities are experiencing high-levels of congestion impacting productivity and residents' wellbeing
 
-It is estimated that the average American spends 100 hours sitting in traffic each year, valued at an estimated $88BN total or ~$1,500 per person. The impact is worse in the most congested cities: $2,000+ per year in Boston, Chicago, Philadelphia, and New York. Leading urban planner and economist Alain Bertaud describes congestion as "as a tax on cities' productivity" in his book __Order Without Design__  — these totals illustrate why.
+It is estimated that the average American spends 100 hours sitting in traffic each year, valued at an estimated $88BN total or ~$1,500 per person. The impact is worse in the most congested cities: $2,000+ per year in Boston, Chicago, Philadelphia, and New York. Leading urban planner and economist Alain Bertaud describes congestion as "as a tax on cities' productivity" in his book _Order Without Design_  — these totals illustrate why.
 
 Congestion also increases the total air pollution, greenhouse gas emissions, and the chronic disease burden associated with extended time spent in a car.
 
@@ -47,7 +47,7 @@ In 2019, the Governors Highway Safety Association estimated that 6.6k pedestrian
 
 These statistics are the product of an increasing number of vehicles on the road and an increase in those vehicles' size, which are ultimately rooted in cars-centric planning policies and car culture.
 
-#### Mobility inequity disproportionately affects marginalized and minoritized communities in the urban environment. As such, their access to economic opportunities is constrained.
+#### Mobility inequity disproportionately affects marginalized and minoritized communities, constraining their access to economic opportunities.
 
 In American cities today, Black & Hispanic households are less likely to have access to automobiles, quality public transit, and alternative mode of mobility.
 
