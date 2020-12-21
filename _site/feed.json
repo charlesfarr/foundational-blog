@@ -3,7 +3,7 @@
     "title": "Foundational",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "Musings on the foundational elements of modern life",
+    "description": "Charles Farr's personal blog exploring various aspects of our modern world",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,

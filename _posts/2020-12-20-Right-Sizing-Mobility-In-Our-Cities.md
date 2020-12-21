@@ -4,7 +4,7 @@ title: 'The Case For People-Centric Mobility'
 permalink: '/city/people-centric-mobility'
 category: 'city'
 image: '/assets/png/right-sizing-mobility-thumb.png'
-excerpt: 'Cities should replace car-centric planning & policies with a people-centric mobility strategy'
+excerpt: "Car-centric planning and policy is not up to the task of tackling the 21st Century's challenges, but people-centric mobility provides a better path forward."
 ---
 
 Merriam Webster defines **mobility** in two ways:
