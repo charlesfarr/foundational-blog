@@ -3,7 +3,7 @@ layout: 'page'
 title: 'The Case For People-Centric Mobility'
 permalink: '/city/people-centric-mobility'
 category: 'city'
-image: '/assets/png/right-sizing-mobility-thumb.png'
+image: '/assets/jpg/bike-commuters.jpg'
 excerpt: "Car-centric planning and policy is not up to the task of tackling the 21st Century's challenges, but people-centric mobility provides a better path forward."
 ---
 
