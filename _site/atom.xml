@@ -4,7 +4,7 @@
  <title>Foundational</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-01-04T11:55:56-06:00</updated>
+ <updated>2021-01-06T18:46:50-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Charles Farr</name>
@@ -17,26 +17,15 @@
    <link href="http://localhost:4000/city/people-centric-mobility"/>
    <updated>2020-12-20T00:00:00-06:00</updated>
    <id>http://localhost:4000/city/Right-Sizing-Mobility-In-Our-Cities</id>
-   <content type="html">&lt;p&gt;Merriam Webster defines &lt;strong&gt;mobility&lt;/strong&gt; in two ways:&lt;/p&gt;
+   <content type="html">&lt;p&gt;Why do so many Americans hate our cities stateside but flock to the cobblestone streets of European ones? The short and simple answer is because of the car.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;the quality or state of being mobile or movable;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the ability to change one’s social or socioeconomic position in a community and especially to improve it.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;You see, American cities have been built for the car, meaning they prioritize the movement of vehicles and their occupants over every other means of mobility. The impact here is there are no cobblestone streets to speak of and most journeys are not pleasant affairs.&lt;/p&gt;
 
-&lt;p&gt;While the dictionary definition does not explicitly link (1) physical mobility and (2) social &amp;amp; economic mobility, the two are inherently intertwined. If a citizen is unable to tap into the economic benefits of a city because their mobility is physically limited, their ability to change their social and economic standing decreases.&lt;/p&gt;
+&lt;p&gt;It may seem like a trivial concern that most of our cities are not walkable. However, the impact of designing for cars leads to much bigger and structural issues. The approach exacerbates climate change, limits mobility and economic opportunity for minoritized communities, and has claimed too many pedestrians’ lives.&lt;/p&gt;
 
-&lt;p&gt;As such, physical mobility is critically important for all citizens’ lives and is a key area of focus for municipal, state, &amp;amp; federal governments.&lt;/p&gt;
+&lt;p&gt;As cities work to address these 21st challenges, leaning on cars is not only futile but is actively counter-productive. To make real progress, the United States must foster alternative, people-centric modes of mobility instead. “People-centric” modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing reliance on cars, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve citizens’ quality of life.&lt;/p&gt;
 
-&lt;p&gt;In the United States today, physical mobility relies primarily on cars, the result of years of car-centric transportation and planning policies. The car has been and continues to be one of the most influential forces in American cities and Americans’ lives.&lt;/p&gt;
-
-&lt;p&gt;However, as we approach the challenges of the 21st Century, including combating climate change, reducing inequality, and fostering economic growth, leaning on cars alone is an increasingly futile strategy. To tackle these challenges, I believe the United States must foster alternative means of mobility, specifically people-centric modes. “People-centric” mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities’ reliance on cars, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.&lt;/p&gt;
-
-&lt;p&gt;To understand how people-centric mobility addresses these challenges, let us take a look at the underlying  mobility issues cities face on a day-to-day basis.&lt;/p&gt;
+&lt;p&gt;To understand how people-centric mobility addresses these challenges, let us take a look at the underlying mobility issues cities face on a day-to-day basis.&lt;/p&gt;
 
 &lt;h2 id=&quot;downsides-of-car-centric-planning&quot;&gt;Downsides of Car-Centric Planning&lt;/h2&gt;
 

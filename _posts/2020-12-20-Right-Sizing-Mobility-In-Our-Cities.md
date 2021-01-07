@@ -7,21 +7,15 @@ image: '/assets/png/bike-commuters.png'
 excerpt: "Car-centric planning and policy is not up to the task of tackling the 21st Century's challenges, but people-centric mobility provides a better path forward."
 ---
 
-Merriam Webster defines **mobility** in two ways:
+Why do so many Americans hate our cities stateside but flock to the cobblestone streets of European ones? The short and simple answer is because of the car.
 
-1. the quality or state of being mobile or movable;
+You see, American cities have been built for the car, meaning they prioritize the movement of vehicles and their occupants over every other means of mobility. The impact here is there are no cobblestone streets to speak of and most journeys are not pleasant affairs.
 
-2. the ability to change one's social or socioeconomic position in a community and especially to improve it.
+It may seem like a trivial concern that most of our cities are not walkable. However, the impact of designing for cars leads to much bigger and structural issues. The approach exacerbates climate change, limits mobility and economic opportunity for minoritized communities, and has claimed too many pedestrians' lives.
 
-While the dictionary definition does not explicitly link (1) physical mobility and (2) social & economic mobility, the two are inherently intertwined. If a citizen is unable to tap into the economic benefits of a city because their mobility is physically limited, their ability to change their social and economic standing decreases.
+As cities work to address these 21st challenges, leaning on cars is not only futile but is actively counter-productive. To make real progress, the United States must foster alternative, people-centric modes of mobility instead. "People-centric" modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing reliance on cars, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve citizens' quality of life.
 
-As such, physical mobility is critically important for all citizens' lives and is a key area of focus for municipal, state, & federal governments.
-
-In the United States today, physical mobility relies primarily on cars, the result of years of car-centric transportation and planning policies. The car has been and continues to be one of the most influential forces in American cities and Americans' lives.
-
-However, as we approach the challenges of the 21st Century, including combating climate change, reducing inequality, and fostering economic growth, leaning on cars alone is an increasingly futile strategy. To tackle these challenges, I believe the United States must foster alternative means of mobility, specifically people-centric modes. "People-centric" mobility modes are those that emphasize the pedestrian and their movement without the use of a car. By decreasing cities' reliance on cars, cities can unlock greater economic prosperity, meet the tough climate obligations that lay ahead, and improve the quality of life for all of their citizens.
-
-To understand how people-centric mobility addresses these challenges, let us take a look at the underlying  mobility issues cities face on a day-to-day basis.
+To understand how people-centric mobility addresses these challenges, let us take a look at the underlying mobility issues cities face on a day-to-day basis.
 
 ## Downsides of Car-Centric Planning
 
