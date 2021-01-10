@@ -171,11 +171,11 @@ strong, b {
 	margin-bottom: 0.5rem;
 }
 
-.posts ul,header ul {
+.posts ul, header ul, .notes ul {
 	list-style:none;
 }
 
-.posts li {
+.posts li, .notes li {
 	align-items:center;
 	display:flex;
 	justify-content:space-between;
@@ -201,14 +201,14 @@ strong, b {
 		padding-bottom: 1em;
 }
 
-.posts li a, .posts li div, .projects li a {
+.posts li a, .posts li div, .projects li a, .notes li a, .notes li div{
 	white-space:nowrap;
 	overflow:hidden;
 	text-overflow:ellipsis;
 	text-decoration: none;
 }
 
-.posts li time, .projects li time {
+.posts li time, .projects li time, .notes li time {
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
