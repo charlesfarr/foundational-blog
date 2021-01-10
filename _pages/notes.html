@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: collection
 title: 'My Public Notes'
 permalink: '/notes/'
 ---
 
+<p>Below you will find a collection of my public notes summarizing bits and pieces of the reading and research I am doing. I hope you find reading them as helpful as I found writing them!</p>
+
+<hr>
+
 <section class="notes">
 <ul>
 {% for note in site.notes %}
-<li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a><time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%m-%d-%Y" }}</time></li>
+<li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a><span class="note-time-status"><span class="note-status">{{note.status}}:</span><time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%B %-d, %Y" }}</time></span></li>
 {% endfor %}
 </ul>
 </section>

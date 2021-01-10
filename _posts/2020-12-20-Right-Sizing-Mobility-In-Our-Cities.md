@@ -1,5 +1,5 @@
 ---
-layout: 'page'
+layout: post
 title: 'The Case For People-Centric Mobility'
 permalink: '/city/people-centric-mobility'
 category: 'city'

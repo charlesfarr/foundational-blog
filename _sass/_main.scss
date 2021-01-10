@@ -1,3 +1,10 @@
+:root {
+	--cl-note-status: 		#495057;
+	--cl-post-date:				#495057;
+	--cl-collection-hr:		#495057;
+	--cl-headers2-5:			#495057;
+}
+
 *,:after,:before {
 	box-sizing:border-box;
 	background-color:inherit;
@@ -109,7 +116,7 @@ h1,h2,h3,h4,h5 {
 	font-weight: 600;
 }
 
-.post h1, .page h1 {
+.post h1, .page h1, .collection h1 {
 	color: #000000 !important;
 	font-size: 28px;
 	// text-transform: uppercase;
@@ -117,7 +124,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .post h2, .post h3, .post h4 {
-	color: #495057 !important;
+	color: var(--cl-headers2-5) !important;
 	font-weight: 700;
 }
 
@@ -126,12 +133,12 @@ h1,h2,h3,h4,h5 {
 }
 
 .post p strong {
-	color: #495057 !important;
+	color: var(--cl-headers2-5) !important;
 }
 
 .post .footnotes::before {
 	content: 'Footnotes';
-	color: #495057 !important;
+	color: var(--cl-headers2-5) !important;
 	background-color: transparent;
 	font-size: 1.05rem;
 	font-weight: 700;
@@ -171,16 +178,41 @@ strong, b {
 	margin-bottom: 0.5rem;
 }
 
-.posts ul, header ul, .notes ul {
+.posts ul, header ul {
 	list-style:none;
 }
 
-.posts li, .notes li {
+.notes {
+	padding-left: 0rem;
+}
+
+.notes ul {
+	list-style:none;
+	padding-left: 0rem;
+}
+
+.posts li {
 	align-items:center;
 	display:flex;
 	justify-content:space-between;
 	margin-bottom: .5rem;
-	margin-left: .5rem;
+	// margin-left: .5rem;
+}
+
+.notes li {
+	align-items:center;
+	display:flex;
+	justify-content:space-between;
+	margin-bottom: .5rem;
+	// margin-left: .5rem;
+}
+
+.note-time-status {
+	color: var(--cl-note-status);
+}
+
+.note-status {
+	font-weight: 500;
 }
 
 .hanging-indent + ul > li {
@@ -201,17 +233,52 @@ strong, b {
 		padding-bottom: 1em;
 }
 
-.posts li a, .posts li div, .projects li a, .notes li a, .notes li div{
+.posts li a, .posts li div, .projects li a{
 	white-space:nowrap;
 	overflow:hidden;
 	text-overflow:ellipsis;
 	text-decoration: none;
 }
 
-.posts li time, .projects li time, .notes li time {
+.notes li a, .notes li div{
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	text-decoration: none;
+}
+
+.posts li time, .projects li time {
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
+	color: var(--cl-post-date);
+}
+
+@media screen and (max-width : 600px) {
+ .posts li time {
+   display: none !important;
+ }
+}
+
+.note-time-status {
+	// font-style: italic;
+}
+
+@media screen and (max-width : 600px) {
+ .note-time-status {
+   display: none !important;
+ }
+}
+
+.notes li time {
+	padding-left: .25rem;
+	white-space: nowrap;
+	font-variant-numeric: tabular-nums;
+}
+
+.collection hr {
+	margin-top: 1rem;
+	background-color: var(--cl-collection-hr);
 }
 
 .post ul, .project ul, .post ol  {
