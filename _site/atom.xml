@@ -4,7 +4,7 @@
  <title>Foundational</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-01-06T18:46:50-06:00</updated>
+ <updated>2021-01-09T21:16:54-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Charles Farr</name>
@@ -75,7 +75,7 @@
 
 &lt;p&gt;So what does people-centric mobility look like and how can cities build towards it?&lt;/p&gt;
 
-&lt;p&gt;“People-centric” mobility emphasizes the pedestrian and their movement, moving away from relying on cars to prioritizing walking and micromobility&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; instead. Bolstering public transportation is also critical for people-centric mobility, as multi-modal trips&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; are crucial to the strategy’s success. By enabling residents to travel further without the need for a car, public transit boosts the utility of complementary modes such as walking or cycling.&lt;/p&gt;
+&lt;p&gt;“People-centric” mobility emphasizes the pedestrian and their movement, moving away from relying on cars to prioritizing walking and micromobility&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; instead. Bolstering public transportation is also critical for people-centric mobility, as multi-modal trips&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; are crucial to the strategy’s success. By enabling residents to travel further without the need for a car, public transit boosts the utility of complementary modes such as walking or cycling.&lt;/p&gt;
 
 &lt;p&gt;While people-centric mobility requires the increased adoption of a wide range of mobility modes and devices, the good news is the infrastructure and policies needed to support each mode are complementary — for instance, supporting walkers almost always benefits cyclists and public transit users as well.&lt;/p&gt;
 
@@ -83,7 +83,7 @@
 
 &lt;h4 id=&quot;pillar-1-build-better-pedestrian-and-bike-infrastructure&quot;&gt;Pillar 1: Build better pedestrian and bike infrastructure&lt;/h4&gt;
 
-&lt;p&gt;Dedicated infrastructure programs induce demand&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for cycling and pedestrian activities as well as bolstering pedestrian safety. Just as the construction of additional roadways induces demand for driving, pedestrian and bike infrastructure does the same for walking, cycling, and micromobility.&lt;/p&gt;
+&lt;p&gt;Dedicated infrastructure programs induce demand&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for cycling and pedestrian activities as well as bolstering pedestrian safety. Just as the construction of additional roadways induces demand for driving, pedestrian and bike infrastructure does the same for walking, cycling, and micromobility.&lt;/p&gt;
 
 &lt;p&gt;Demand is induced due mainly by the decreased effort required to complete a trip by bicycle or on foot, stemming from availability of shorter routes and increased safety. In a car-centric city walkers and cyclists are often forced to take circuitous routes to ensure their safety. When there aren’t viable routes, many residents will resort to using a car. Dedicated infrastructure enables more direct routes for cyclists and walkers by protecting these vulnerable road users from car traffic.&lt;/p&gt;
 
@@ -151,16 +151,16 @@
 
 &lt;p&gt;Ultimately, I believe prioritizing people-centric mobility will make cities more resilient in the face of the 21st Century’s challenges. Not only that, but prioritizing people over cars will result in happier populations and a more productive, creative, and innovative city.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Micromobility includes bicycles 🚲, scooters 🛴, mopeds 🛵, tricycles &amp;amp; quadricycles 🛺, mini-cars 🚗, clown cars 🤡, and other yet-to-emerge innovations and form-factors 🚜. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Micromobility includes bicycles 🚲, scooters 🛴, mopeds 🛵, tricycles &amp;amp; quadricycles 🛺, mini-cars 🚗, clown cars 🤡, and other yet-to-emerge innovations and form-factors 🚜. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Multi-modal trips use various types of mobility, such as walking and the bus or using bikeshare and the subway. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Multi-modal trips use various types of mobility, such as walking and the bus or using bikeshare and the subway. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. &lt;em&gt;If you build it (highways), they will come (to drive),&lt;/em&gt; or some such &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Induced demand refers to effect on demand for driving caused by the construction of new roadways. As road capacity is expanded, the additional capacity is quickly filled by new drivers. &lt;em&gt;If you build it (highways), they will come (to drive),&lt;/em&gt; or some such &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
