@@ -2,7 +2,7 @@
 layout: post
 title:
 date: 2020-01-10
-status: Evergreen
+status: Draft
 ---
 
 Why in the world is the rent so damn high? The simple answer is that housing far outstrips supply, which drives up costs significantly. Since 2001, there has been no growth in median household income, but the cost of rent has risen by nearly 50%.
@@ -17,9 +17,7 @@ Research from San Francisco identified similar reductions in rents from new mark
 
 Broader research from 11 large US metro areas has found the benefits of building new market-rate housing also exist in lower-income neighborhoods. Large developments (50+ units) decreased rents by 5 – 7% relative to units further away (Asquith et Al).
 
-The benefits of market-rate are not constrained to those who will eventually occupy the units. The research shows that new supply, even at the top of the income distribution, benefits units across quality- and income-levels.
-
-The benefit stems from a phenomenon called the filtering effect.
+The benefits of market-rate are not constrained to those who will eventually occupy the units. The research shows that new supply benefits units across quality- and income-levels, thanks to a phenomenon called the **filtering** effect.
 
 As new market-rate housing is built, individuals with higher-incomes will lease the new market-rate units. In doing so, they forgo leasing units further down the market. The decreased demand increases the relative supply of units, which helps depress rents. As these units' prices drop, new renters can move into previously unaffordable units. This process repeats itself throughout the rest of the market, "filtering" downwards.
 
@@ -38,6 +36,6 @@ In summary, building market-rate housing increase the supply of housing. The res
 The main takeaway for cities is the need to boost market-rate units, ideally by removing impediments stemming from zoning and permitting.
 
 Citations
-1. Mense, Andreas. “The Impact of New Housing Supply on the Distribution of Rents,” n.d., 63. http://hdl.handle.net/10419/224569
-2. Asquith, Brian J., Evan Mast, and Davin Reed. “Supply Shock Versus Demand Shock: The Local Effects of New Housing in Low-Income Areas.” W.E. Upjohn Institute, December 19, 2019. https://doi.org/10.17848/wp19-316.
-3. Pennington, Kate. “Does Building New Housing Cause Displacement? The Supply and Demand Effects of Construction in San Francisco,” n.d., 64. https://www.katepennington.org/research
+1. Mense, Andreas. “The Impact of New Housing Supply on the Distribution of Rents,” n.d., 63. — [link](http://hdl.handle.net/10419/224569)
+2. Asquith, Brian J., Evan Mast, and Davin Reed. “Supply Shock Versus Demand Shock: The Local Effects of New Housing in Low-Income Areas.” W.E. Upjohn Institute, December 19, 2019. — [link](https://doi.org/10.17848/wp19-316.)
+3. Pennington, Kate. “Does Building New Housing Cause Displacement? The Supply and Demand Effects of Construction in San Francisco,” n.d., 64. — [link](https://www.katepennington.org/research)
