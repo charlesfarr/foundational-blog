@@ -3,6 +3,7 @@ layout: post
 title: The Importance of Market-Rate Housing
 date: 2020-01-15
 status: Evergreen
+permalink: '/notes/importance-of-market-rate-housing'
 image: '/assets/png/minato-japan.png'
 ---
 
