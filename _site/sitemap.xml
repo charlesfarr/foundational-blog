@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/notes/2020-01-10-the-importance-of-market-rate-housing</loc>
-<lastmod>2020-01-10T00:00:00-06:00</lastmod>
+<lastmod>2020-01-15T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2021-01-15T11:01:58-06:00</lastmod>
+<lastmod>2021-01-15T11:14:31-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/notes/</loc>
-<lastmod>2021-01-15T11:01:58-06:00</lastmod>
+<lastmod>2021-01-15T11:14:31-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2021-01-15T11:01:58-06:00</lastmod>
+<lastmod>2021-01-15T11:14:31-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/city/people-centric-mobility</loc>
