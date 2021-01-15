@@ -3,6 +3,7 @@ layout: post
 title: The Importance of Market-Rate Housing
 date: 2020-01-10
 status: Evergreen
+image: '/png/minato-japan.png'
 ---
 
 Why in the world is rent so damn high? The simple answer is that demand for rental housing far outstrips supply, driving up rents.
