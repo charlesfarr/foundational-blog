@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Foundational</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-01-15T11:14:31-06:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://thefoundation.al/atom.xml" rel="self"/>
+ <link href="https://thefoundation.al/"/>
+ <updated>2021-01-15T13:06:44-06:00</updated>
+ <id>https://thefoundation.al</id>
  <author>
    <name>Charles Farr</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>The Case For People-Centric Mobility</title>
-   <link href="http://localhost:4000/city/people-centric-mobility"/>
+   <link href="https://thefoundation.al/city/people-centric-mobility"/>
    <updated>2020-12-20T00:00:00-06:00</updated>
-   <id>http://localhost:4000/city/Right-Sizing-Mobility-In-Our-Cities</id>
+   <id>https://thefoundation.al/city/Right-Sizing-Mobility-In-Our-Cities</id>
    <content type="html">&lt;p&gt;Why do so many Americans hate our cities stateside but flock to the cobblestone streets of European ones? The short and simple answer is because of the car.&lt;/p&gt;
 
 &lt;p&gt;You see, American cities have been built for the car, meaning they prioritize the movement of vehicles and their occupants over every other means of mobility. The impact here is there are no cobblestone streets to speak of and most journeys are not pleasant affairs.&lt;/p&gt;
